@@ -2,3 +2,5 @@ Ivanov --95--
 Sidorov --100--
 Petrov --60--
 Semenov --97--
+Reznov --80--
+Baranov --100--
